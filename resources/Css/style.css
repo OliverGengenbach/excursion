@@ -1,0 +1,26 @@
+a {
+  color: rgb(118,238,198)
+}
+h1, h2, p, .image {
+  font-family: "Verdana";
+  text-align: center;
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  }
+h2{
+  font-size: 21px;
+  color: grey;
+}
+h3{
+  font-family: "Verdana";
+  font-size: 21px;
+  color: grey;
+  text-align: right;
+}
+p{
+font-size: 25px;
+color: rgb(118,238,198);
+}
